@@ -1,0 +1,8 @@
+**/.csproj.user
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/Properties
+/.gitattributes
+Material/
