@@ -14,7 +14,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\PartB\PartB.csproj" />
+	  <ProjectReference Include="..\Part2\Part2.csproj" />
 	</ItemGroup>
 
 </Project>
